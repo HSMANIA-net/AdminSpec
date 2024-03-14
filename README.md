@@ -2,7 +2,7 @@
 Located in: `/configs/plugins/AdminSpec/`
 ```c#
 {
-  "Flag": "@css/ban", 
+  "flag": "@css/ban", 
   "ConfigVersion": 1
 }
 ```
